@@ -1,0 +1,22 @@
+{
+  "name": "npm-tmp-pkg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/msatyan/test1.git"
+  },
+  "keywords": [
+    "tmp"
+  ],
+  "author": "Satyan <msatyan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msatyan/test1/issues"
+  },
+  "homepage": "https://github.com/msatyan/test1#readme"
+}
