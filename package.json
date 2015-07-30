@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/msatyan/test1.git"
+    "url": "git://github.com/msatyan/test2.git"
   },
   "keywords": [
     "tmp"
@@ -16,7 +16,7 @@
   "author": "Satyan <msatyan@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/msatyan/test1/issues"
+    "url": "https://github.com/msatyan/test2/issues"
   },
-  "homepage": "https://github.com/msatyan/test1#readme"
+  "homepage": "https://github.com/msatyan/test2#readme"
 }
